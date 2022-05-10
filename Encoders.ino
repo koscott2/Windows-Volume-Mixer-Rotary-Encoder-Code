@@ -51,8 +51,6 @@ void setup()
 
 void loop()
 {
-  send
-  clear
   encoder1();
   encoder2();
   encoder3();
